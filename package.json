@@ -1,0 +1,27 @@
+{
+  "name": "CodeSphere",
+  "version": "0.0.1",
+  "description": "Sharing Live Code in the Browser",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/DavidPardy/CodeSphere.git"
+  },
+  "keywords": [
+    "codesphere"
+  ],
+  "author": "david-greg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DavidPardy/CodeSphere/issues"
+  },
+  "homepage": "https://github.com/DavidPardy/CodeSphere",
+  "dependencies": {
+    "express": "^4.4.1",
+    "logfmt": "^1.1.2"
+  }
+}
